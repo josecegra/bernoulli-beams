@@ -1,4 +1,6 @@
 Implementation of a finite element method with third degree polynomials as basis functions 
 for solving the steady state and dynamics of Bernoulli beams
 
+Application to a beam structure with human shape
+
 Theoretical background in project-numerics.pdf
